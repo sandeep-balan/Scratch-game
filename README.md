@@ -10,8 +10,9 @@ To play:
 To see the code:
   - just click on (see inside) button.
   
-# Objectives
-  - learn basic programming constructs (functions - conditions - boolean expressions - loops) and how to do something useful with them. 
-  - computional thinking - algorithms (in other word) the process of creating function and how to think through that process.
-  - learn abstraction (in other word) functions decomposition technique or think in coding process as if it consists only from functions.   
+# What I Learned:
+  - how computers represent information in memory (binary representation).
+  - computional thinking - algorithms (in other word) the process of creating function and how to think through that process (intelligently first then ).
+  - basic programming constructs (functions - conditions - boolean expressions - loops) and how to do something useful with them (creating a game). 
+  - learn abstraction (in other word) functions decomposition technique or think in coding process as if consists only from functions.   
   
