@@ -5,7 +5,7 @@ This is my first project for CS50 (introduction to computer science from Harvard
 To play:
   - From here (this repo) download game file (collect-fruit.sb3) to your local computer and open it in https://scratch.mit.edu/ site.
   - or -
-  - Go to this url and enjoy https://scratch.mit.edu/projects/301973346/
+
 
 To see the code:
   - just click on (see inside) button.
